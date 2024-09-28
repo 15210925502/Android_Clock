@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">桌面时钟</string>
+
+    <string name="method_normal">Normal</string>
+    <string name="method_picasso">Picasso</string>
+    <string name="method_glide">Glide</string>
+</resources>
